@@ -31,7 +31,7 @@ Run the angular source
 
 --------------------------------------------------------------
 
-## RASA (for the chatbot widget to work):
+## RASA (for the chatbot widget to work)
 
 **Requirements:**
 
@@ -39,14 +39,14 @@ Run the angular source
 
 **Open cmd and run the following commands in order:**
 
-Install latest model:
+Install latest model
 
     _pip install ur_model-0.0.0.tar.gz_
 
-Train the model:
+Train the model
 
     _python -m rasa train_
 
-Run server:
+Run server
 
     _rasa run -m models --enable-api --cors "*" --debug_
