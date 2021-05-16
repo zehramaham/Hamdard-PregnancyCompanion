@@ -50,3 +50,8 @@ Train the model
 Run server
 
     _rasa run -m models --enable-api --cors "*" --debug_
+    
+Open another cmd and run
+
+    _rasa run actions_
+    
