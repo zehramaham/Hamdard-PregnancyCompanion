@@ -2,43 +2,43 @@
 Final Year Project - Kaavish -  Project Files (CS Class of 2021)
 
 
-Web App:
+##Web App:
 
-Requirements: 
+**Requirements: **
 -Mongodb
 -Angular
 -Nodejs
 
-Run the following commands in order:
+**Run the following commands in order:**
 
 Type and run this command to run the backend database first
-   nodemon server.js
+   _nodemon server.js_
 
 Then on another cmd, change directory
-    cd angular-src
+    _cd angular-src_
 
 Install packages before running
-    npm install
+    _npm install_
 
 Run the angular source  
-     ng serve
+     _ng serve_
 
 *You have to register for a new account and login to access the dashboard and get weekly whatsapp messages*
 
 --------------------------------------------------------------
 
-RASA (for the chatbot widget to work):
+## RASA (for the chatbot widget to work):
 
-Requirements:
+**Requirements:**
 -RASA open source
 
-Open cmd and run the following commands in order:
+**Open cmd and run the following commands in order:**
 
 Install latest model:
-    pip install ur_model-0.0.0.tar.gz
+    _pip install ur_model-0.0.0.tar.gz_
 
 Train the model:
-    python -m rasa train
+   _ python -m rasa train_
 
 Run server:
-    rasa run -m models --enable-api --cors "*" --debug
+    _rasa run -m models --enable-api --cors "*" --debug_
