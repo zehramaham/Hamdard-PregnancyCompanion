@@ -13,19 +13,19 @@ Final Year Project - Kaavish -  Project Files (CS Class of 2021)
 
 Type and run this command to run the backend database first
 
-    _nodemon server.js_
+    nodemon server.js
 
 Then on another cmd, change directory
 
-    _cd angular-src_
+    cd angular-src
 
 Install packages before running (important)
 
-    _npm install_
+    npm install
 
 Run the angular source 
 
-     _ng serve_
+     ng serve
 
 **_You have to register for a new account and login to access the dashboard and get weekly whatsapp messages**_
 
@@ -41,17 +41,17 @@ Run the angular source
 
 Install latest model
 
-    _pip install ur_model-0.0.0.tar.gz_
+    pip install ur_model-0.0.0.tar.gz
 
 Train the model
 
-    _python -m rasa train_
+    python -m rasa train
 
 Run server
 
-    _rasa run -m models --enable-api --cors "*" --debug_
+    rasa run -m models --enable-api --cors "*" --debug
     
 Open another cmd and run
 
-    _rasa run actions_
+    rasa run actions
     
