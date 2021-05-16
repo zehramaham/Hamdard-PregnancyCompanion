@@ -27,7 +27,7 @@ Run the angular source
 
      ng serve
 
-**_You have to register for a new account and login to access the dashboard and get weekly whatsapp messages**_
+**_You have to register for a new account and login to access the dashboard and get weekly whatsapp messages_**
 
 --------------------------------------------------------------
 
