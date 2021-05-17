@@ -1,9 +1,31 @@
 # Hamdard
 Final Year Project - Kaavish -  Project Files (CS Class of 2021)
 
+### Abstract:
+Hamdard is a contextual AI assistant built on RASA framework and deployed on a
+web application. It acts as a personal companion to pregnant women, making use
+of Natural Language Processing (NLP) to answer their maternity related questions
+in the Urdu language, predicting complications through Bayesian predictive modeling, as well as providing psychological and emotional assistance. Hence, Hamdard
+aims at providing women multiple levels of support throughout their nine-months of
+pregnancy.
+
+### Team:
+- Behjet Ansari - ba04090@st.habib.edu.pk
+- Eraj Rizwan - er03984@st.habib.edu.pk
+- Maham Zehra - mz04027@st.habib.edu.pk
+- Shiza Khalidi - sk03870@st.habib.edu.pk
+
+### Supervisor
+* Dr. Syeda Saleha Raza, 
+Assistant Professor - Computer Science,
+Dhanani School of Science and Engineering,
+Habib University
+
 #### Link:
 
     https://drive.google.com/file/d/1aiQ9pUxfPt0vQYUM7EaV-7rOKfcSemls/view?usp=sharing
+
+
 
 ## Web App:
 
