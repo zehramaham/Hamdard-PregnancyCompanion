@@ -1,5 +1,4 @@
 # Hamdard
-Final Year Project - Kaavish -  Project Files (CS Class of 2021)
 
 ### Abstract:
 Hamdard is a contextual AI assistant built on RASA framework and deployed on a
